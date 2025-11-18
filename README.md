@@ -1,0 +1,1 @@
+##Test project to check if Windows' symlinks work on git repo##
